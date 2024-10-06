@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a6c86eea4114c6d855c4c45e0564978/artifacts
+end_time: 1728179154256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a6c86eea4114c6d855c4c45e0564978
+run_name: crawling-bee-904
+run_uuid: 0a6c86eea4114c6d855c4c45e0564978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728179152926
+status: 4
+tags: []
+user_id: root

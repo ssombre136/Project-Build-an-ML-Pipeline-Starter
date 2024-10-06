@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7ba388a6993d40c78a7caae30831f966/artifacts
+end_time: 1728179042238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ba388a6993d40c78a7caae30831f966
+run_name: entertaining-yak-720
+run_uuid: 7ba388a6993d40c78a7caae30831f966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728178990201
+status: 4
+tags: []
+user_id: root

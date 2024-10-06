@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/50c3ce55f83b4fbd99d9847b9389c207/artifacts
+end_time: 1728179154416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50c3ce55f83b4fbd99d9847b9389c207
+run_name: treasured-hog-159
+run_uuid: 50c3ce55f83b4fbd99d9847b9389c207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728179131364
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6a09ffd5909471db306fa4c2453996e/artifacts
+end_time: 1728179152915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6a09ffd5909471db306fa4c2453996e
+run_name: inquisitive-koi-10
+run_uuid: c6a09ffd5909471db306fa4c2453996e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728179141752
+status: 3
+tags: []
+user_id: root
