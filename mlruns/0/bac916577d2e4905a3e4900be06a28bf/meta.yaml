@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bac916577d2e4905a3e4900be06a28bf/artifacts
+end_time: 1728179463211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac916577d2e4905a3e4900be06a28bf
+run_name: abrasive-snake-461
+run_uuid: bac916577d2e4905a3e4900be06a28bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728179452136
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88f8b75861d8459589a574c0a278ddbf/artifacts
+end_time: 1728179490445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88f8b75861d8459589a574c0a278ddbf
+run_name: gifted-wasp-879
+run_uuid: 88f8b75861d8459589a574c0a278ddbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728179471676
+status: 3
+tags: []
+user_id: root
