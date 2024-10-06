@@ -1,0 +1,58 @@
+{
+  "os":  "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python":  "3.9.20",
+  "startedAt":  "2024-10-05T19:54:34.078086Z",
+  "args":  [
+    "--trainval_artifact",
+    "trainval_data.csv:latest",
+    "--val_size",
+    "0.2",
+    "--random_seed",
+    "42",
+    "--stratify_by",
+    "neighbourhood_group",
+    "--rf_config",
+    "/root/Project-Build-an-ML-Pipeline-Starter/multirun/2024-10-05/09-53-09/2/rf_config.json",
+    "--max_tfidf_features",
+    "5",
+    "--output_artifact",
+    "random_forest_export"
+  ],
+  "program":  "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+  "codePath":  "src/train_random_forest/run.py",
+  "git":  {
+    "remote":  "https://github.com/ssombre136/Project-Build-an-ML-Pipeline-Starter.git",
+    "commit":  "0936351046db1e8e7587aa16f516b26a9374b3da"
+  },
+  "email":  "ssombre@wgu.edu",
+  "root":  "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest",
+  "host":  "DESKTOP-IP5I8L3",
+  "username":  "root",
+  "executable":  "/root/miniconda3/envs/mlflow-2781c95621376ce0ed2207d87aaf0b1322dd9e5a/bin/python",
+  "codePathLocal":  "run.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "[NVIDIA GeForce RTX 3060]",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "269490393088",
+      "used":  "29814534144"
+    }
+  },
+  "memory":  {
+    "total":  "13188648960"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3060",
+      "memoryTotal":  "12884901888",
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}

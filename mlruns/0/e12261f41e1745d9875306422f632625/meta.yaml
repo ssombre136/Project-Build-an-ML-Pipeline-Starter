@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e12261f41e1745d9875306422f632625/artifacts
+end_time: 1728087568788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e12261f41e1745d9875306422f632625
+run_name: abrasive-horse-300
+run_uuid: e12261f41e1745d9875306422f632625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728087405853
+status: 4
+tags: []
+user_id: root

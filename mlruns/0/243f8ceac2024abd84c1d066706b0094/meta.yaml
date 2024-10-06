@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/243f8ceac2024abd84c1d066706b0094/artifacts
+end_time: 1728175467528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 243f8ceac2024abd84c1d066706b0094
+run_name: bold-stork-341
+run_uuid: 243f8ceac2024abd84c1d066706b0094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728175431950
+status: 3
+tags: []
+user_id: root

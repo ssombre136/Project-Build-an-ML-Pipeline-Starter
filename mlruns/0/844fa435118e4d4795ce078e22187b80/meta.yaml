@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/844fa435118e4d4795ce078e22187b80/artifacts
+end_time: 1728082942120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 844fa435118e4d4795ce078e22187b80
+run_name: delightful-bug-938
+run_uuid: 844fa435118e4d4795ce078e22187b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728082929026
+status: 4
+tags: []
+user_id: root

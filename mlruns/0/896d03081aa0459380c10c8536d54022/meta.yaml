@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/896d03081aa0459380c10c8536d54022/artifacts
+end_time: 1728172914789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 896d03081aa0459380c10c8536d54022
+run_name: carefree-midge-233
+run_uuid: 896d03081aa0459380c10c8536d54022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728172857271
+status: 4
+tags: []
+user_id: root

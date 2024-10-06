@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/50e23692c5ed40e38f3a6e870fdedb51/artifacts
+end_time: 1728157077991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e23692c5ed40e38f3a6e870fdedb51
+run_name: respected-roo-703
+run_uuid: 50e23692c5ed40e38f3a6e870fdedb51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728156995462
+status: 4
+tags: []
+user_id: root

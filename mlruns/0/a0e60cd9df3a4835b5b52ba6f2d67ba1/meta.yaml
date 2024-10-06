@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a0e60cd9df3a4835b5b52ba6f2d67ba1/artifacts
+end_time: 1728173423721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0e60cd9df3a4835b5b52ba6f2d67ba1
+run_name: gentle-roo-712
+run_uuid: a0e60cd9df3a4835b5b52ba6f2d67ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728173364633
+status: 4
+tags: []
+user_id: root

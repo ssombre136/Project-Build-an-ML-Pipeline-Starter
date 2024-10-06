@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/58c31b7c4b6b46228d2be088168c3f0b/artifacts
+end_time: 1728158879133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58c31b7c4b6b46228d2be088168c3f0b
+run_name: selective-deer-417
+run_uuid: 58c31b7c4b6b46228d2be088168c3f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728158837995
+status: 4
+tags: []
+user_id: root

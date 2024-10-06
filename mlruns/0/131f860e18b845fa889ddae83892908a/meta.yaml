@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/131f860e18b845fa889ddae83892908a/artifacts
+end_time: 1728156892271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 131f860e18b845fa889ddae83892908a
+run_name: flawless-panda-72
+run_uuid: 131f860e18b845fa889ddae83892908a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728156862361
+status: 4
+tags: []
+user_id: root

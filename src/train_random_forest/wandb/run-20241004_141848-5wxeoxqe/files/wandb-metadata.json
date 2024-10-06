@@ -1,0 +1,120 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-10-05T00:18:49.855633",
+    "startedAt": "2024-10-05T00:18:48.984485",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/root/Project-Build-an-ML-Pipeline-Starter/multirun/2024-10-04/14-16-48/3/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/ssombre136/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "0936351046db1e8e7587aa16f516b26a9374b3da"
+    },
+    "email": null,
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-IP5I8L3",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/mlflow-4a130764f2d122e434cffcd97235152948f87f02/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2903.997,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2903.997,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.98248672485352,
+        "used": 20.84487533569336
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 12.282886505126953
+    }
+}

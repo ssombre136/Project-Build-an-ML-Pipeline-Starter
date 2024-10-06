@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a1f1e0aa7e8746c18787bb82383c8b3a/artifacts
+end_time: 1728156495244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f1e0aa7e8746c18787bb82383c8b3a
+run_name: bemused-toad-972
+run_uuid: a1f1e0aa7e8746c18787bb82383c8b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728156450010
+status: 4
+tags: []
+user_id: root

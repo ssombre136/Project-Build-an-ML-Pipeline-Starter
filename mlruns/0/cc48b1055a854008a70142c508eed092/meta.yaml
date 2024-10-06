@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc48b1055a854008a70142c508eed092/artifacts
+end_time: 1728177631988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc48b1055a854008a70142c508eed092
+run_name: capricious-deer-842
+run_uuid: cc48b1055a854008a70142c508eed092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728177614235
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/861322c268a740fd863c78d00b240ec3/artifacts
+end_time: 1728174994318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 861322c268a740fd863c78d00b240ec3
+run_name: gregarious-yak-896
+run_uuid: 861322c268a740fd863c78d00b240ec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728174979957
+status: 3
+tags: []
+user_id: root

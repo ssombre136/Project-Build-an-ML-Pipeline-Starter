@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bf0b0ff2450e43f68fa6960da16e0241/artifacts
+end_time: 1728091905376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf0b0ff2450e43f68fa6960da16e0241
+run_name: nosy-asp-598
+run_uuid: bf0b0ff2450e43f68fa6960da16e0241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728091820051
+status: 3
+tags: []
+user_id: root

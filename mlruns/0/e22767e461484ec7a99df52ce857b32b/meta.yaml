@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e22767e461484ec7a99df52ce857b32b/artifacts
+end_time: 1728158129088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e22767e461484ec7a99df52ce857b32b
+run_name: youthful-conch-327
+run_uuid: e22767e461484ec7a99df52ce857b32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728157987229
+status: 4
+tags: []
+user_id: root

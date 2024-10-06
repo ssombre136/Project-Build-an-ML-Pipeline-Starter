@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7f8f667159ac441b946c1284008d631e/artifacts
+end_time: 1728083919587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f8f667159ac441b946c1284008d631e
+run_name: omniscient-auk-310
+run_uuid: 7f8f667159ac441b946c1284008d631e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728083906237
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a52804e9b7ea4299a37fdf96ca2a062d/artifacts
+end_time: 1728083368310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a52804e9b7ea4299a37fdf96ca2a062d
+run_name: auspicious-mink-782
+run_uuid: a52804e9b7ea4299a37fdf96ca2a062d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728083342486
+status: 4
+tags: []
+user_id: root

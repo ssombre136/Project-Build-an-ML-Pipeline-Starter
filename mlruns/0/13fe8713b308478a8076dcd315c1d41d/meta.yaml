@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/13fe8713b308478a8076dcd315c1d41d/artifacts
+end_time: 1728172263551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13fe8713b308478a8076dcd315c1d41d
+run_name: unequaled-skunk-778
+run_uuid: 13fe8713b308478a8076dcd315c1d41d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728172230144
+status: 3
+tags: []
+user_id: root

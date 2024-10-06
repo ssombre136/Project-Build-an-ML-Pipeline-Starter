@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/125a070e68d64bbea00a7bbfd78cb633/artifacts
+end_time: 1728090707745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 125a070e68d64bbea00a7bbfd78cb633
+run_name: bald-foal-678
+run_uuid: 125a070e68d64bbea00a7bbfd78cb633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728090652945
+status: 4
+tags: []
+user_id: root

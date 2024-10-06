@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/70e2402472ae43c3928c113357a91b45/artifacts
+end_time: 1728173335498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70e2402472ae43c3928c113357a91b45
+run_name: placid-quail-942
+run_uuid: 70e2402472ae43c3928c113357a91b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728173294540
+status: 4
+tags: []
+user_id: root

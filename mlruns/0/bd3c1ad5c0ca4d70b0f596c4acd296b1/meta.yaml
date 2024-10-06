@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bd3c1ad5c0ca4d70b0f596c4acd296b1/artifacts
+end_time: 1728160058790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd3c1ad5c0ca4d70b0f596c4acd296b1
+run_name: beautiful-stork-782
+run_uuid: bd3c1ad5c0ca4d70b0f596c4acd296b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728159972259
+status: 4
+tags: []
+user_id: root

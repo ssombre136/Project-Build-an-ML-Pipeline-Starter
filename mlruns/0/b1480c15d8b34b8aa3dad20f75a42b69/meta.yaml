@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b1480c15d8b34b8aa3dad20f75a42b69/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1480c15d8b34b8aa3dad20f75a42b69
+run_name: hilarious-mare-734
+run_uuid: b1480c15d8b34b8aa3dad20f75a42b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728083510178
+status: 1
+tags: []
+user_id: root

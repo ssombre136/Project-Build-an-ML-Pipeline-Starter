@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0de9325a93bf47679316a56e7e8994d9/artifacts
+end_time: 1728080635583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0de9325a93bf47679316a56e7e8994d9
+run_name: sincere-ray-395
+run_uuid: 0de9325a93bf47679316a56e7e8994d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728080491317
+status: 3
+tags: []
+user_id: root

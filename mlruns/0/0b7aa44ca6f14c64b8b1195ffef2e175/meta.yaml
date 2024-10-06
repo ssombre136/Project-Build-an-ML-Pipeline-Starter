@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0b7aa44ca6f14c64b8b1195ffef2e175/artifacts
+end_time: 1728084690687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b7aa44ca6f14c64b8b1195ffef2e175
+run_name: rare-whale-885
+run_uuid: 0b7aa44ca6f14c64b8b1195ffef2e175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728084644370
+status: 3
+tags: []
+user_id: root

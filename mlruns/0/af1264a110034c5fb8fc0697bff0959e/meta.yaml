@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af1264a110034c5fb8fc0697bff0959e/artifacts
+end_time: 1728157333739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af1264a110034c5fb8fc0697bff0959e
+run_name: abundant-ape-339
+run_uuid: af1264a110034c5fb8fc0697bff0959e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728157327523
+status: 4
+tags: []
+user_id: root

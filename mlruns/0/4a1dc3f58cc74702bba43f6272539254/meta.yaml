@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4a1dc3f58cc74702bba43f6272539254/artifacts
+end_time: 1728093841884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a1dc3f58cc74702bba43f6272539254
+run_name: dazzling-dolphin-71
+run_uuid: 4a1dc3f58cc74702bba43f6272539254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728093827260
+status: 4
+tags: []
+user_id: root

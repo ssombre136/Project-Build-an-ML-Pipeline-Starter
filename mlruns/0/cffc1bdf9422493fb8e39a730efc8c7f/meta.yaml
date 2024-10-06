@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cffc1bdf9422493fb8e39a730efc8c7f/artifacts
+end_time: 1728172342749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cffc1bdf9422493fb8e39a730efc8c7f
+run_name: skillful-vole-404
+run_uuid: cffc1bdf9422493fb8e39a730efc8c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728172308743
+status: 3
+tags: []
+user_id: root

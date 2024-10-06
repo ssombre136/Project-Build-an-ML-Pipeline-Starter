@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ed2bab7add65408c9496db53ed94a96d/artifacts
+end_time: 1728157340213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed2bab7add65408c9496db53ed94a96d
+run_name: melodic-wren-735
+run_uuid: ed2bab7add65408c9496db53ed94a96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728157333837
+status: 4
+tags: []
+user_id: root

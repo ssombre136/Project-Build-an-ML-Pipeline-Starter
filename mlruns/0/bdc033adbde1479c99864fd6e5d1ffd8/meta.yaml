@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bdc033adbde1479c99864fd6e5d1ffd8/artifacts
+end_time: 1728157494801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdc033adbde1479c99864fd6e5d1ffd8
+run_name: receptive-wasp-944
+run_uuid: bdc033adbde1479c99864fd6e5d1ffd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728157487393
+status: 4
+tags: []
+user_id: root

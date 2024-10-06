@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c4e5c5a0a9434304b4dda216a4c00388/artifacts
+end_time: 1728085729854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4e5c5a0a9434304b4dda216a4c00388
+run_name: bustling-bass-88
+run_uuid: c4e5c5a0a9434304b4dda216a4c00388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728085688668
+status: 4
+tags: []
+user_id: root

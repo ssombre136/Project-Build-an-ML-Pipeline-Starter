@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c16d1d2f62554b309fbf3345cfdf6f00/artifacts
+end_time: 1728083933139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c16d1d2f62554b309fbf3345cfdf6f00
+run_name: colorful-vole-545
+run_uuid: c16d1d2f62554b309fbf3345cfdf6f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728083831395
+status: 4
+tags: []
+user_id: root

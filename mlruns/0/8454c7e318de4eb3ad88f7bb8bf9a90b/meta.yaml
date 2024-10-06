@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8454c7e318de4eb3ad88f7bb8bf9a90b/artifacts
+end_time: 1728176574247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8454c7e318de4eb3ad88f7bb8bf9a90b
+run_name: silent-squirrel-761
+run_uuid: 8454c7e318de4eb3ad88f7bb8bf9a90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728176467299
+status: 3
+tags: []
+user_id: root

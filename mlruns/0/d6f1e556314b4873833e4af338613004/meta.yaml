@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d6f1e556314b4873833e4af338613004/artifacts
+end_time: 1728172094237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6f1e556314b4873833e4af338613004
+run_name: rogue-crab-869
+run_uuid: d6f1e556314b4873833e4af338613004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728172042466
+status: 4
+tags: []
+user_id: root

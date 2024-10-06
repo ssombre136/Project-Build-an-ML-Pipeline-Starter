@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c0108ef5dcc40d29307a13d7880d15b/artifacts
+end_time: 1728089565790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c0108ef5dcc40d29307a13d7880d15b
+run_name: caring-roo-886
+run_uuid: 8c0108ef5dcc40d29307a13d7880d15b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728089516056
+status: 3
+tags: []
+user_id: root

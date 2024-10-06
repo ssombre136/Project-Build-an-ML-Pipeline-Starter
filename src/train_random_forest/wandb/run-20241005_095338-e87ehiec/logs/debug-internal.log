@@ -1,0 +1,18 @@
+{"time":"2024-10-05T09:53:38.551984-10:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-05T09:53:38.5519997-10:00","level":"INFO","msg":"created symlink","path":"/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20241005_095338-e87ehiec/logs/debug-core.log"}
+{"time":"2024-10-05T09:53:38.5520509-10:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-05T09:53:38.5520545-10:00","level":"INFO","msg":"created symlink","path":"/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20241005_095338-e87ehiec/logs/debug-core.log"}
+{"time":"2024-10-05T09:53:38.566516-10:00","level":"INFO","msg":"created new stream","id":"e87ehiec"}
+{"time":"2024-10-05T09:53:38.5665615-10:00","level":"INFO","msg":"stream: started","id":"e87ehiec"}
+{"time":"2024-10-05T09:53:38.5665901-10:00","level":"INFO","msg":"sender: started","stream_id":{"value":"e87ehiec"}}
+{"time":"2024-10-05T09:53:38.5666303-10:00","level":"INFO","msg":"handler: started","stream_id":{"value":"e87ehiec"}}
+{"time":"2024-10-05T09:53:38.5666038-10:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"e87ehiec"}}
+{"time":"2024-10-05T09:53:38.8975665-10:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-05T09:53:38.898703-10:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-05T09:53:54.5923653-10:00","level":"INFO","msg":"stream: closing","id":"e87ehiec"}
+{"time":"2024-10-05T09:53:54.5923886-10:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-05T09:53:54.5926056-10:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-05T09:53:56.8720432-10:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"e87ehiec"}}
+{"time":"2024-10-05T09:53:56.8721443-10:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"e87ehiec"}}
+{"time":"2024-10-05T09:53:56.8721712-10:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"e87ehiec"}}
+{"time":"2024-10-05T09:53:56.8723529-10:00","level":"INFO","msg":"stream: closed","id":"e87ehiec"}

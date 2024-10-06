@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/73253360e2c944f58bc66b3900f4cdec/artifacts
+end_time: 1728157187302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73253360e2c944f58bc66b3900f4cdec
+run_name: unleashed-shark-611
+run_uuid: 73253360e2c944f58bc66b3900f4cdec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728157174159
+status: 4
+tags: []
+user_id: root

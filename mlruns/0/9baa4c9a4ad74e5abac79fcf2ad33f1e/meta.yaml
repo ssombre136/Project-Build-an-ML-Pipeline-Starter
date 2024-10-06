@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9baa4c9a4ad74e5abac79fcf2ad33f1e/artifacts
+end_time: 1728158093247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9baa4c9a4ad74e5abac79fcf2ad33f1e
+run_name: gaudy-quail-21
+run_uuid: 9baa4c9a4ad74e5abac79fcf2ad33f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728158070918
+status: 4
+tags: []
+user_id: root

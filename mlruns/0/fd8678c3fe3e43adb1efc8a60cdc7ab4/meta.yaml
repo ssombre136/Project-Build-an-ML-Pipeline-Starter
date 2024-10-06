@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd8678c3fe3e43adb1efc8a60cdc7ab4/artifacts
+end_time: 1728172134718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd8678c3fe3e43adb1efc8a60cdc7ab4
+run_name: melodic-grub-442
+run_uuid: fd8678c3fe3e43adb1efc8a60cdc7ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728172121395
+status: 4
+tags: []
+user_id: root

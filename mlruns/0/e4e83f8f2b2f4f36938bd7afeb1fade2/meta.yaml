@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4e83f8f2b2f4f36938bd7afeb1fade2/artifacts
+end_time: 1728159357336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4e83f8f2b2f4f36938bd7afeb1fade2
+run_name: mysterious-swan-463
+run_uuid: e4e83f8f2b2f4f36938bd7afeb1fade2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728159343954
+status: 4
+tags: []
+user_id: root

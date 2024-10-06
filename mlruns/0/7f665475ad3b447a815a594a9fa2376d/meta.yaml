@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7f665475ad3b447a815a594a9fa2376d/artifacts
+end_time: 1728159063252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f665475ad3b447a815a594a9fa2376d
+run_name: gregarious-dove-57
+run_uuid: 7f665475ad3b447a815a594a9fa2376d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728159035969
+status: 4
+tags: []
+user_id: root

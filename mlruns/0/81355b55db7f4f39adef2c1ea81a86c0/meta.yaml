@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/81355b55db7f4f39adef2c1ea81a86c0/artifacts
+end_time: 1728159343838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81355b55db7f4f39adef2c1ea81a86c0
+run_name: rare-bat-771
+run_uuid: 81355b55db7f4f39adef2c1ea81a86c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728159330408
+status: 4
+tags: []
+user_id: root

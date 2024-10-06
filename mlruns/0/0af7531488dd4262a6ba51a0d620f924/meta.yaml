@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0af7531488dd4262a6ba51a0d620f924/artifacts
+end_time: 1728174679028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0af7531488dd4262a6ba51a0d620f924
+run_name: skittish-skink-333
+run_uuid: 0af7531488dd4262a6ba51a0d620f924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728174578811
+status: 4
+tags: []
+user_id: root

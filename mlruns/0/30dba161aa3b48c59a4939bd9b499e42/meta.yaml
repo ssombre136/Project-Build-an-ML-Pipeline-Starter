@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30dba161aa3b48c59a4939bd9b499e42/artifacts
+end_time: 1728174086678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30dba161aa3b48c59a4939bd9b499e42
+run_name: honorable-smelt-783
+run_uuid: 30dba161aa3b48c59a4939bd9b499e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728174057532
+status: 4
+tags: []
+user_id: root

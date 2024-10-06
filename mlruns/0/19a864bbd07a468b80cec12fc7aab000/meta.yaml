@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/19a864bbd07a468b80cec12fc7aab000/artifacts
+end_time: 1728175602618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19a864bbd07a468b80cec12fc7aab000
+run_name: languid-shoat-979
+run_uuid: 19a864bbd07a468b80cec12fc7aab000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728175429321
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0115586e3eb34c88ba71f14dfe3d518a/artifacts
+end_time: 1728159330306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0115586e3eb34c88ba71f14dfe3d518a
+run_name: brawny-sheep-781
+run_uuid: 0115586e3eb34c88ba71f14dfe3d518a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728159288230
+status: 4
+tags: []
+user_id: root

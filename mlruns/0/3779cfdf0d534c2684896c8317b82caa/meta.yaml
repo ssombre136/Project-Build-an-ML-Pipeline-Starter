@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3779cfdf0d534c2684896c8317b82caa/artifacts
+end_time: 1728089316965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3779cfdf0d534c2684896c8317b82caa
+run_name: polite-wolf-946
+run_uuid: 3779cfdf0d534c2684896c8317b82caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728089176707
+status: 3
+tags: []
+user_id: root

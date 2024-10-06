@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4a506d22ec33405298eec699d1eee383/artifacts
+end_time: 1728092101803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a506d22ec33405298eec699d1eee383
+run_name: flawless-sow-554
+run_uuid: 4a506d22ec33405298eec699d1eee383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728092011360
+status: 3
+tags: []
+user_id: root

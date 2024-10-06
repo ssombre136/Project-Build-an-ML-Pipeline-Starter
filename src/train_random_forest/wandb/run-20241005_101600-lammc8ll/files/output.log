@@ -1,0 +1,19 @@
+2024-10-05 10:16:04,140 Minimum price: 10, Maximum price: 350
+2024-10-05 10:16:04,153 Preparing sklearn pipeline
+2024-10-05 10:16:04,153 Fitting
+Traceback (most recent call last):
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 293, in <module>
+    go(args)
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 74, in go
+    sk_pipe.fit(X_train, y_train)
+  File "/root/miniconda3/envs/mlflow-eed3e73957390f2714019306c3a7df966d4e3ca6/lib/python3.10/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/root/miniconda3/envs/mlflow-eed3e73957390f2714019306c3a7df966d4e3ca6/lib/python3.10/site-packages/sklearn/pipeline.py", line 427, in fit
+    self._final_estimator.fit(Xt, y, **fit_params_last_step)
+  File "/root/miniconda3/envs/mlflow-eed3e73957390f2714019306c3a7df966d4e3ca6/lib/python3.10/site-packages/sklearn/base.py", line 1145, in wrapper
+    estimator._validate_params()
+  File "/root/miniconda3/envs/mlflow-eed3e73957390f2714019306c3a7df966d4e3ca6/lib/python3.10/site-packages/sklearn/base.py", line 638, in _validate_params
+    validate_parameter_constraints(
+  File "/root/miniconda3/envs/mlflow-eed3e73957390f2714019306c3a7df966d4e3ca6/lib/python3.10/site-packages/sklearn/utils/_param_validation.py", line 96, in validate_parameter_constraints
+    raise InvalidParameterError(
+sklearn.utils._param_validation.InvalidParameterError: The 'criterion' parameter of RandomForestRegressor must be a str among {'friedman_mse', 'squared_error', 'absolute_error', 'poisson'}. Got 'mae' instead.

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/167d0c5f486a410cb938281a1140a35d/artifacts
+end_time: 1728175387423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 167d0c5f486a410cb938281a1140a35d
+run_name: bedecked-stoat-508
+run_uuid: 167d0c5f486a410cb938281a1140a35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728175356572
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5d3517fb16514b8aaa0054e93776d371/artifacts
+end_time: 1728090749922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d3517fb16514b8aaa0054e93776d371
+run_name: caring-sloth-194
+run_uuid: 5d3517fb16514b8aaa0054e93776d371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728090707848
+status: 4
+tags: []
+user_id: root

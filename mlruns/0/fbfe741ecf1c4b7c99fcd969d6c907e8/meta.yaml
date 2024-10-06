@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fbfe741ecf1c4b7c99fcd969d6c907e8/artifacts
+end_time: 1728172914631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbfe741ecf1c4b7c99fcd969d6c907e8
+run_name: thoughtful-skunk-450
+run_uuid: fbfe741ecf1c4b7c99fcd969d6c907e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728172859641
+status: 4
+tags: []
+user_id: root

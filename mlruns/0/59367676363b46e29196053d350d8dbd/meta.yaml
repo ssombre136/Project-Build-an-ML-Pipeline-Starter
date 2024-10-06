@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/59367676363b46e29196053d350d8dbd/artifacts
+end_time: 1728085688570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59367676363b46e29196053d350d8dbd
+run_name: casual-hare-400
+run_uuid: 59367676363b46e29196053d350d8dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728085661352
+status: 4
+tags: []
+user_id: root

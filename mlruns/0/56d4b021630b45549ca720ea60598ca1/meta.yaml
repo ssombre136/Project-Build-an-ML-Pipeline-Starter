@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/56d4b021630b45549ca720ea60598ca1/artifacts
+end_time: 1728085304462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56d4b021630b45549ca720ea60598ca1
+run_name: nervous-bug-42
+run_uuid: 56d4b021630b45549ca720ea60598ca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728085263340
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8784102e2c4b454ba56c4550e8214efc/artifacts
+end_time: 1728083397289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8784102e2c4b454ba56c4550e8214efc
+run_name: wise-mole-849
+run_uuid: 8784102e2c4b454ba56c4550e8214efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728083382926
+status: 4
+tags: []
+user_id: root

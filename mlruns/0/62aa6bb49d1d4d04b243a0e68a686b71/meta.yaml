@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/62aa6bb49d1d4d04b243a0e68a686b71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62aa6bb49d1d4d04b243a0e68a686b71
+run_name: abrasive-conch-190
+run_uuid: 62aa6bb49d1d4d04b243a0e68a686b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728157764945
+status: 1
+tags: []
+user_id: root

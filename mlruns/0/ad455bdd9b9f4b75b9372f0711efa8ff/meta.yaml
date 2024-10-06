@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ad455bdd9b9f4b75b9372f0711efa8ff/artifacts
+end_time: 1728083892684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad455bdd9b9f4b75b9372f0711efa8ff
+run_name: caring-shoat-16
+run_uuid: ad455bdd9b9f4b75b9372f0711efa8ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728083833929
+status: 4
+tags: []
+user_id: root

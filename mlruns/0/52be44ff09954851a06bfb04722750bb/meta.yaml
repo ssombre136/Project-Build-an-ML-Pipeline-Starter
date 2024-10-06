@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/52be44ff09954851a06bfb04722750bb/artifacts
+end_time: 1728156420524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52be44ff09954851a06bfb04722750bb
+run_name: serious-moose-423
+run_uuid: 52be44ff09954851a06bfb04722750bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728156381245
+status: 4
+tags: []
+user_id: root

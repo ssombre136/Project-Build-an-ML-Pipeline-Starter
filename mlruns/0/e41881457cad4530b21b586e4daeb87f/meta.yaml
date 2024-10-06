@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e41881457cad4530b21b586e4daeb87f/artifacts
+end_time: 1728089515955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e41881457cad4530b21b586e4daeb87f
+run_name: stylish-conch-701
+run_uuid: e41881457cad4530b21b586e4daeb87f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728089435659
+status: 3
+tags: []
+user_id: root

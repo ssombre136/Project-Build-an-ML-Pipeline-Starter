@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c2a4c6f6cb3d441a8bf9a85566e1c83f/artifacts
+end_time: 1728092160344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2a4c6f6cb3d441a8bf9a85566e1c83f
+run_name: gifted-ray-390
+run_uuid: c2a4c6f6cb3d441a8bf9a85566e1c83f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728092138219
+status: 4
+tags: []
+user_id: root

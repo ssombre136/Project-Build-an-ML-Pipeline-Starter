@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d0ddb11728af48058ed479b97c5bfc93/artifacts
+end_time: 1728159177359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0ddb11728af48058ed479b97c5bfc93
+run_name: delightful-grub-779
+run_uuid: d0ddb11728af48058ed479b97c5bfc93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728159131839
+status: 4
+tags: []
+user_id: root

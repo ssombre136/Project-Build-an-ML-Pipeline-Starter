@@ -1,0 +1,53 @@
+2024-10-05 14:14:53,542 Minimum price: 10, Maximum price: 350
+2024-10-05 14:14:53,553 Preparing sklearn pipeline
+2024-10-05 14:14:53,553 Fitting
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+2024-10-05 14:15:08,902 Scoring
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+2024-10-05 14:15:09,028 Score: 0.5507180655211765
+2024-10-05 14:15:09,028 MAE: 33.530625
+2024-10-05 14:15:09,028 Exporting model
+Traceback (most recent call last):
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 293, in <module>
+    go(args)
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 95, in go
+    signature = mlflow.models.infer_signature(X_val, y_pred)
+  File "/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/mlflow/models/signature.py", line 212, in infer_signature
+    inputs = _infer_schema(model_input) if model_input is not None else None
+  File "/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/mlflow/types/utils.py", line 135, in _infer_schema
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/mlflow/types/utils.py", line 135, in <listcomp>
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/root/miniconda3/envs/mlflow-573baac4b9de427f0230e6d3efe440b9fb652bd3/lib/python3.9/site-packages/mlflow/types/utils.py", line 293, in _infer_pandas_column
+    raise MlflowException(
+mlflow.exceptions.MlflowException: Unable to map 'object' type to MLflow DataType. object can be mapped iff all values have identical data type which is one of (string, (bytes or byterray),  int, float).

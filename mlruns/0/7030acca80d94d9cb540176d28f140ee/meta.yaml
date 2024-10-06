@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7030acca80d94d9cb540176d28f140ee/artifacts
+end_time: 1728156862259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7030acca80d94d9cb540176d28f140ee
+run_name: serious-hound-114
+run_uuid: 7030acca80d94d9cb540176d28f140ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728156823298
+status: 4
+tags: []
+user_id: root

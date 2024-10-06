@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/687634ebd55c4043adbe47a09c05e8ed/artifacts
+end_time: 1728092195213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 687634ebd55c4043adbe47a09c05e8ed
+run_name: rogue-calf-39
+run_uuid: 687634ebd55c4043adbe47a09c05e8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728092182021
+status: 4
+tags: []
+user_id: root

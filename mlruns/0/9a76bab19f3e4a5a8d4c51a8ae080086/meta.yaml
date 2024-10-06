@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9a76bab19f3e4a5a8d4c51a8ae080086/artifacts
+end_time: 1728087454717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a76bab19f3e4a5a8d4c51a8ae080086
+run_name: gaudy-horse-439
+run_uuid: 9a76bab19f3e4a5a8d4c51a8ae080086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728087408501
+status: 4
+tags: []
+user_id: root
